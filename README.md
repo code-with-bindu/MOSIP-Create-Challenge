@@ -1,6 +1,7 @@
 # MOSIP-Create-Challenge
 Predicting, Protecting, Providing: AI and MOSIP in the Fight Against Disasters Theme: Emergency Relief Systems Enhancement
 
+
 "Every second counts in a disaster, and every life is precious. By 
 leveraging innovative solutions, we can ensure that help reaches 
 those who need it most, restoring hope and saving lives."

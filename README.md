@@ -20,6 +20,7 @@ harness technology and compassion, we can transform despair into hope.
 This solution revolutionizes disaster response by combining the power of Artificial Intelligence (AI) with MOSIP's robust digital identity infrastructure. It takes a holistic approach to disaster management, focusing on three key pillars:
 
 
+
 1. Predicting:
 
 Leverages AI to analyze vast datasets (historical disaster data, weather patterns, geological information, socio-economic factors) to identify high-risk areas and vulnerable populations.

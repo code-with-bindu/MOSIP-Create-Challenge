@@ -75,6 +75,7 @@ This solution offers a comprehensive approach to disaster management, combining 
 
 MOSIP Integration: The Foundation of Resilience
 
+
  
  Digital Identity: MOSIP's digital identity platform is the cornerstone of our solution. It allows us 
 to instantly verify the identity of disaster victims, ensuring aid reaches the right people, 

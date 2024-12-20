@@ -13,6 +13,7 @@ those who need it most, restoring hope and saving lives."
 
 
 
+
 In the face of disaster, every life matters. Ensuring timely aid and support is not 
 just a duty; it’s a commitment to human dignity and the sanctity of life. When we 
 harness technology and compassion, we can transform despair into hope.
